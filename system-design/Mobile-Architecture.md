@@ -4,7 +4,7 @@ The system design for the real-time quiz feature uses Clean Architecture with th
 
 ### Component Diagram
 
-![image info](./pictures/mobile-architecture.png)
+![image info](./pictures/mobile-architecture-diagram.png)
 
 
 
